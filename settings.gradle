@@ -1,0 +1,2 @@
+rootProject.name = "MT5TextHook"
+include ':app'
